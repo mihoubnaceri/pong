@@ -20,7 +20,7 @@
     modern systems.
 ]]
 
-WINDOW_WIDTH = 1280
+WINDOW_WIDTH = 2000
 WINDOW_HEIGHT = 750
 
 --[[
